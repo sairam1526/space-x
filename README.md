@@ -23,8 +23,8 @@ Examples Urls for applying filters.
 ![Desktop View](./src/images/desktop_view.PNG)
 
 ### Tablet View Of the Application(1024 and below):
-![Tablet View](./src/images/tablet_view.PNG)
+![Tablet View](./src/images/tablet_view.png)
 
 ### Mobile View Of the Application(700px and below):
-![Mobile View](./src/images/mobile_view.PNG)
+![Mobile View](./src/images/mobile_view.png)
 
