@@ -1,5 +1,4 @@
 import { createSelector } from 'reselect';
-import { SPACE_X_URL } from '../../utils/constants';
 
 export const selectFilter = state => state.filter;
 
